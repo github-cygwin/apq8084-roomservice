@@ -39,12 +39,12 @@
   <project name="github-cygwin/android_vendor_samsung_kccat6xx"
 	   path="vendor/samsung/kccat6xx"
 	   remote="github"
-	   revision="test-cm-14.1" />
+	   revision="master" />
 
   <!-- lentislte-common vendor -->
   <project name="github-cygwin/android_vendor_samsung_lentislte-common"
 	   path="vendor/samsung/lentislte-common"
 	   remote="github"
-	   revision="test-cm-14.1" />
+	   revision="master" />
 
 </manifest>

@@ -22,13 +22,13 @@
   <project name="github-cygwin/android_vendor_samsung_kccat6xx"
    path="vendor/samsung/kccat6xx"
    remote="github"
-   revision="test-cm-13.0" />
+   revision="master" />
 
   <!-- lentislte-common vendor -->
   <project name="github-cygwin/android_vendor_samsung_lentislte-common"
    path="vendor/samsung/lentislte-common"
    remote="github"
-   revision="test-cm-13.0" />
+   revision="master" />
 
   <!-- kccat6 kernel -->
   <project name="github-cygwin/android_kernel_samsung_kccat6"

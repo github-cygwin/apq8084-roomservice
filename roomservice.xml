@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Dependencies -->
   <project name="LineageOS/android_external_stlport"
 	   path="external/stlport"
 	   remote="github" />
@@ -21,19 +22,19 @@
   <project name="github-cygwin/android_device_samsung_kccat6xx"
 	   path="device/samsung/kccat6xx"
 	   remote="github"
-	   revision="test-cm-14.1" />
+	   revision="cm-14.1" />
 
   <!-- lentislte-common device -->
   <project name="github-cygwin/android_device_samsung_lentislte-common"
 	   path="device/samsung/lentislte-common"
 	   remote="github"
-	   revision="test-cm-14.1" />
+	   revision="cm-14.1" />
 
   <!-- kccat6 kernel -->
   <project name="github-cygwin/android_kernel_samsung_kccat6"
 	   path="kernel/samsung/kccat6"
 	   remote="github"
-	   revision="test-cm-14.1" />
+	   revision="kccat6-3.10.y" />
 
   <!-- kccat6 vendor -->
   <project name="github-cygwin/android_vendor_samsung_kccat6xx"

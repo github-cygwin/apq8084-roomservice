@@ -17,18 +17,27 @@
   <project name="LineageOS/android_packages_resources_devicesettings"
 	   path="packages/resources/devicesettings"
 	   remote="github" />
+  <project name="LineageOS/android_packages_apps_FlipFlap"
+	   path="packages/apps/FlipFlap"
+	   remote="github" />
 
   <!-- kccat6 device -->
   <project name="github-cygwin/android_device_samsung_kccat6xx"
 	   path="device/samsung/kccat6xx"
 	   remote="github"
-	   revision="cm-14.1" />
+	   revision="test-cm-14.1" />
+
+  <!-- lentislte device -->
+  <project name="github-cygwin/android_device_samsung_lentislte"
+	   path="device/samsung/lentislte"
+	   remote="github"
+	   revision="test-cm-14.1" />
 
   <!-- lentislte-common device -->
   <project name="github-cygwin/android_device_samsung_lentislte-common"
 	   path="device/samsung/lentislte-common"
 	   remote="github"
-	   revision="cm-14.1" />
+	   revision="test-cm-14.1" />
 
   <!-- kccat6 kernel -->
   <project name="github-cygwin/android_kernel_samsung_kccat6"

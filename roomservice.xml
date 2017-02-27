@@ -39,11 +39,11 @@
 	   remote="github"
 	   revision="test-cm-14.1" />
 
-  <!-- kccat6 kernel -->
-  <project name="github-cygwin/android_kernel_samsung_kccat6"
-	   path="kernel/samsung/kccat6"
+  <!-- apq8084 kernel -->
+  <project name="github-cygwin/android_kernel_samsung_apq8084"
+	   path="kernel/samsung/apq8084"
 	   remote="github"
-	   revision="kccat6-3.10.y" />
+	   revision="master" />
 
   <!-- kccat6 vendor -->
   <project name="github-cygwin/android_vendor_samsung_kccat6xx"

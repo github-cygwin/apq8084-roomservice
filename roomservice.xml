@@ -22,45 +22,33 @@
 	   remote="github" />
 
   <!-- kccat6 device -->
-  <project name="github-cygwin/android_device_samsung_kccat6"
+  <project name="LineageOS/android_device_samsung_kccat6"
 	   path="device/samsung/kccat6"
 	   remote="github"
 	   revision="cm-14.1" />
 
   <!-- lentislte device -->
-  <project name="github-cygwin/android_device_samsung_lentislte"
+  <project name="LineageOS/android_device_samsung_lentislte"
 	   path="device/samsung/lentislte"
 	   remote="github"
 	   revision="cm-14.1" />
 
   <!-- apq8084-common device -->
-  <project name="github-cygwin/android_device_samsung_apq8084-common"
+  <project name="LineageOS/android_device_samsung_apq8084-common"
 	   path="device/samsung/apq8084-common"
 	   remote="github"
 	   revision="cm-14.1" />
 
   <!-- apq8084 kernel -->
-  <project name="github-cygwin/android_kernel_samsung_apq8084"
+  <project name="LineageOS/android_kernel_samsung_apq8084"
 	   path="kernel/samsung/apq8084"
 	   remote="github"
 	   revision="cm-14.1" />
 
-  <!-- kccat6 vendor -->
-  <project name="github-cygwin/android_vendor_samsung_kccat6"
-	   path="vendor/samsung/kccat6"
-	   remote="github"
-	   revision="master" />
-
   <!-- lentislte vendor -->
-  <project name="github-cygwin/android_vendor_samsung_lentislte"
-	   path="vendor/samsung/lentislte"
+  <project name="TheMuppets/proprietary_vendor_samsung"
+	   path="vendor/samsung"
 	   remote="github"
-	   revision="master" />
-
-  <!-- apq8084-common vendor -->
-  <project name="github-cygwin/android_vendor_samsung_apq8084-common"
-	   path="vendor/samsung/apq8084-common"
-	   remote="github"
-	   revision="master" />
+	   revision="cm-14.1" />
 
 </manifest>

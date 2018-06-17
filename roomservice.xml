@@ -2,9 +2,6 @@
 <manifest>
 
   <!-- Dependencies -->
-  <project name="LineageOS/android_external_stlport"
-	   path="external/stlport"
-	   remote="github" />
   <project name="LineageOS/android_device_qcom_common"
 	   path="device/qcom/common"
 	   remote="github" />
@@ -25,30 +22,30 @@
   <project name="LineageOS/android_device_samsung_kccat6"
 	   path="device/samsung/kccat6"
 	   remote="github"
-	   revision="cm-14.1" />
+	   revision="lineage-15.1" />
 
   <!-- lentislte device -->
   <project name="LineageOS/android_device_samsung_lentislte"
 	   path="device/samsung/lentislte"
 	   remote="github"
-	   revision="cm-14.1" />
+	   revision="lineage-15.1" />
 
   <!-- apq8084-common device -->
   <project name="LineageOS/android_device_samsung_apq8084-common"
 	   path="device/samsung/apq8084-common"
 	   remote="github"
-	   revision="cm-14.1" />
+	   revision="lineage-15.1" />
 
   <!-- apq8084 kernel -->
   <project name="LineageOS/android_kernel_samsung_apq8084"
 	   path="kernel/samsung/apq8084"
 	   remote="github"
-	   revision="cm-14.1" />
+	   revision="lineage-15.1" />
 
   <!-- lentislte vendor -->
   <project name="TheMuppets/proprietary_vendor_samsung"
 	   path="vendor/samsung"
 	   remote="github"
-	   revision="cm-14.1" />
+	   revision="lineage-15.1" />
 
 </manifest>
